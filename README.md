@@ -1,4 +1,4 @@
-# ConversorDeMoedas
+# Conversor De Moedas
 Este projeto é um aplicativo simples em Java que realiza a conversão de valores entre moedas utilizando a API ExchangeRate-API.
 
 Funcionalidades
